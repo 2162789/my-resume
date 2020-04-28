@@ -21,6 +21,7 @@
 	<link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/media-queries.css">
    <link rel="stylesheet" href="css/magnific-popup.css">
+   <link rel="stylesheet" href="css/my-slide.css">
 
    <!-- Script
    ================================================== -->
@@ -100,32 +101,10 @@
       <div class="row">
          <div class="columns main-col">
 
-            <h2>About Me</h2>
+            <h2>Objective</h2>
 
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-            voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.
+            <p>
             </p>
-
-            <div class="row">
-
-               <div class="columns contact-details">
-
-                  <h2>Contact Details</h2>
-                  <p class="address">
-						   <span>Oreinz Kasilag</span><br>
-						   <span>San Fernando City<br>
-						         La Union
-                     </span><br>
-						   <span>09351350745</span><br>
-                     <span>anyone@website.com</span>
-					   </p>
-
-               </div>
-            </div> <!-- end row -->
          </div> <!-- end .main-col -->
       </div>
    </section> <!-- About Section End-->
@@ -152,12 +131,6 @@
                   <h3>University of Saint Louis University</h3>
                   <p class="info">B.A. Degree in Information Technology <span>&bull;</span> <em class="date">June 2019</em></p>
 
-                  <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-                  </p>
 
                </div>
 
@@ -170,12 +143,6 @@
                   <h3>Saint Augustine School</h3>
                   <p class="info">Highschool Graduate<span>&bull;</span> <em class="date">March 2015</em></p>
 
-                  <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
-                  </p>
 
                </div>
 
@@ -193,20 +160,27 @@
             <h1><span>Expierience</span></h1>
 
          </div>
-         <h4><span>INTERNSHIP</span></h4>
+         
          <div class="nine columns main-col">
             <div class="row item">
 
                <div class="twelve columns">
 
+                  <h4>GRACELODGE NURSING HOME</h4>
+                  <p class="info">Graphic and Front end Developer<span>&bull;</span> <em class="date">September 2020 - April 2020</em></p>
+
+               </div>
+
+
+         </div>
+         <hr>
+          <h3><span>INTERNSHIP</span></h3><br>
+            <div class="row item">
+
+               <div class="twelve columns">
+
                   <h4>New Media Services</h4>
-                  <p class="info">Graphic and Front end Developer<span>&bull;</span> <em class="date">March 2010 - Present</em></p>
-                  <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-                  </p>
+                  <p class="info">Graphic and Front end Developer<span>&bull;</span> <em class="date">July 2018 - August 2018</em></p>
 
                </div>
 
@@ -218,21 +192,15 @@
 
                <div class="twelve columns">
 
-                  <h4>Sain Louis University</h4>
-                  <p class="info">Tech Support<span>&bull;</span> <em class="date">March 2007 - February 2010</em></p>
-
-                  <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
-                  </p>
+                  <h4>Saint Louis University</h4>
+                  <p class="info">Tech Support<span>&bull;</span> <em class="date">March 20 - February 2010</em></p>
 
                </div>
 
             </div> 
 
-         </div> 
+         </div>
+
 
       </div>
 
@@ -246,12 +214,6 @@
          </div>
 
          <div class="nine columns main-col">
-
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-            voluptatem sequi nesciunt.
-            </p>
          </div>
 
             <div class="row ">
@@ -265,8 +227,6 @@
                      <li><span class="bar-expand gradle"></span><em>Gradle</em></li>
                      <li><span class="bar-expand apache"></span><em>Apache</em></li>
                   </ul>
-               </div>
-               <div class="bars six columns">
                    <ul class="skills">
                      <li><span class="bar-expand php"></span><em>PHP</em></li>
                      <li><span class="bar-expand java"></span><em>Java</em></li>
@@ -292,7 +252,7 @@
 
          <div class="twelve columns collapsed">
 
-            <h1>My Works.</h1>
+            <h1>My Website Created.</h1>
 
             <!-- portfolio-wrapper -->
             <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
@@ -301,11 +261,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-01" title="">
-                        <img alt="" src="images/portfolio/coffee.jpg">
+                        <img alt="" src="images/portfolio/sigma.png">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Coffee</h5>
-                              <p>Illustrration</p>
+          					      <h5>SIGMA</h5>
+                              <p>Loan Monitoring Website</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -318,11 +278,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-02" title="">
-                        <img alt="" src="images/portfolio/console.jpg">
+                        <img alt="" src="images/hr.svg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Console</h5>
-                              <p>Web Development</p>
+          					      <h5>Human Resources</h5>
+                              <p>Share Folder MC Claims</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -348,226 +308,94 @@
                   </div>
           		</div> <!-- item end -->
 
-               <div class="columns portfolio-item">
-                  <div class="item-wrap">
-
-                     <a href="#modal-04" title="">
-                        <img alt="" src="images/portfolio/into-the-light.jpg">
-                        <div class="overlay">
-                           <div class="portfolio-item-meta">
-          					      <h5>Into The Light</h5>
-                              <p>Photography</p>
-          					   </div>
-                        </div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns portfolio-item">
-                  <div class="item-wrap">
-
-                     <a href="#modal-05" title="">
-                        <img alt="" src="images/portfolio/farmerboy.jpg">
-                        <div class="overlay">
-                           <div class="portfolio-item-meta">
-          					      <h5>Farmer Boy</h5>
-                              <p>Branding</p>
-          					   </div>
-                        </div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns portfolio-item">
-                  <div class="item-wrap">
-
-                     <a href="#modal-06" title="">
-                        <img alt="" src="images/portfolio/girl.jpg">
-                        <div class="overlay">
-                           <div class="portfolio-item-meta">
-          					      <h5>Girl</h5>
-                              <p>Photography</p>
-          					   </div>
-                        </div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns portfolio-item">
-                  <div class="item-wrap">
-
-                     <a href="#modal-07" title="">
-                        <img alt="" src="images/portfolio/origami.jpg">
-                        <div class="overlay">
-                           <div class="portfolio-item-meta">
-          					      <h5>Origami</h5>
-                              <p>Illustrration</p>
-          					   </div>
-                        </div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div> <!-- item end -->
-
-               <div class="columns portfolio-item">
-                  <div class="item-wrap">
-
-                     <a href="#modal-08" title="">
-                        <img alt="" src="images/portfolio/retrocam.jpg">
-                        <div class="overlay">
-                           <div class="portfolio-item-meta">
-          					      <h5>Retrocam</h5>
-                              <p>Web Development</p>
-          					   </div>
-                        </div>
-                        <div class="link-icon"><i class="icon-plus"></i></div>
-                     </a>
-
-                  </div>
-          		</div>  <!-- item end -->
-
-            </div> <!-- portfolio-wrapper end -->
 
          </div> <!-- twelve columns end -->
 
 
-         <!-- Modal Popup
-	      --------------------------------------------------------------- -->
-
          <div id="modal-01" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
+         <div class="link-box" style="text-align: right;">
+            <a class="popup-modal-dismiss">X</a>
+         </div>
+            <div class="container">
 
-		      <div class="description-box">
-			      <h4>Coffee Cup</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
-		      </div>
+              <!-- Full-width images with number text -->
+              <div class="mySlides">
+                <div class="numbertext">1 / 6</div>
+                  <img src="./images/Teamsite/1.png" style="object-fit: cover;">
+              </div>
 
-            <div class="link-box">
-               <!-- <a href="http://www.behance.net" target="_blank">Details</a> --->
-		         <a class="popup-modal-dismiss">Close</a>
+              <div class="mySlides">
+                <div class="numbertext">2 / 6</div>
+                  <img src="./images/Teamsite/2.png" style="object-fit: cover;">
+              </div>
+
+              <div class="mySlides">
+                <div class="numbertext">3 / 6</div>
+                  <img src="./images/Teamsite/3.png" style=" object-fit: cover;">
+              </div>
+
+              <div class="mySlides">
+                <div class="numbertext">4 / 6</div>
+                  <img src="./images/Teamsite/4.png" style=" object-fit: cover;">
+              </div>
+
+              <div class="mySlides">
+                <div class="numbertext">5 / 6</div>
+                  <img src="./images/Teamsite/5.png" style="object-fit: cover;">
+              </div>
+
+              <div class="mySlides">
+                <div class="numbertext">6 / 6</div>
+                  <img src="./images/Teamsite/6.png" style=" object-fit: cover;">
+              </div>
+
+              <!-- Next and previous buttons -->
+              <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+              <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
             </div>
 
-	      </div><!-- modal-01 End -->
-
-         <div id="modal-02" class="popup-modal mfp-hide">
-
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
-
-		      <div class="description-box">
-			      <h4>Console</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
-		      </div>
-
-            <div class="link-box">
-               <!-- <a href="http://www.behance.net" target="_blank">Details</a> --->
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
 
 	      </div><!-- modal-02 End -->
 
-         <div id="modal-03" class="popup-modal mfp-hide">
+         <div id="modal-02" class="popup-modal mfp-hide">
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
+            <div class="container">
 
-		      <div class="description-box">
-			      <h4>Judah</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding</span>
-		      </div>
+               <div class="link-box" style="text-align: right;">
+                  <a class="popup-modal-dismiss">X</a>
+               </div>
+              <div class="mySlides">
 
-            <div class="link-box">
-               <!-- <a href="http://www.behance.net" target="_blank">Details</a> --->
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
+                <div class="numbertext">1 / 6</div>
+                  <img src="./images/SimpleWebsite/1.png" style="object-fit: cover;">
+              </div>
 
-	      </div><!-- modal-03 End -->
+              <div class="mySlides">
+                <div class="numbertext">2 / 6</div>
+                  <img src="./images/SimpleWebsite/2.png" style="object-fit: cover;">
+              </div>
 
-         <div id="modal-04" class="popup-modal mfp-hide">
+              <div class="mySlides">
+                <div class="numbertext">3 / 6</div>
+                  <img src="./images/SimpleWebsite/3.png" style="object-fit: cover;">
+              </div>
 
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
+              <div class="mySlides">
+                <div class="numbertext">4 / 6</div>
+                  <img src="./images/SimpleWebsite/4.png" style="object-fit: cover;">
+              </div>
 
-		      <div class="description-box">
-			      <h4>Into the Light</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
-		      </div>
+              <div class="mySlides">
+                <div class="numbertext">5 / 6</div>
+                  <img src="./images/SimpleWebsite/5.png" style="object-fit: cover;">
+              </div>
 
-            <div class="link-box">
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
+              <!-- Next and previous buttons -->
+              <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+              <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-	      </div><!-- modal-04 End -->
-
-         <div id="modal-05" class="popup-modal mfp-hide">
-
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="" />
-
-		      <div class="description-box">
-			      <h4>Farmer Boy</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
-		      </div>
-
-            <div class="link-box">
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
-
-	      </div><!-- modal-05 End -->
-
-         <div id="modal-06" class="popup-modal mfp-hide">
-
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt="" />
-
-		      <div class="description-box">
-			      <h4>Girl</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
-		      </div>
-
-            <div class="link-box">
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
-
-	      </div><!-- modal-06 End -->
-
-         <div id="modal-07" class="popup-modal mfp-hide">
-
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
-
-		      <div class="description-box">
-			      <h4>Origami</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
-		      </div>
-
-            <div class="link-box">
-		         <a class="popup-modal-dismiss">Close</a>
-            </div>
-
-	      </div><!-- modal-07 End -->
-
-         <div id="modal-08" class="popup-modal mfp-hide">
-
-		      <img class="scale-with-grid" src="images/portfolio/modals/m-retrocam.jpg" alt="" />
-
-		      <div class="description-box">
-			      <h4>Retrocam</h4>
-			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-               <span class="categories"><i class="fa fa-tag"></i>Webdesign, Photography</span>
-		      </div>
-
-            <div class="link-box">
-		         <a class="popup-modal-dismiss">Close</a>
             </div>
 
 	      </div><!-- modal-01 End -->
@@ -578,9 +406,7 @@
    </section> <!-- Portfolio Section End-->
 
 
-   <!-- Testimonials Section
-   ================================================== -->
-   <section id="testimonials">
+     <section id="testimonials">
 
       <div class="text-container">
 
@@ -763,6 +589,7 @@
    <script src="js/jquery.fittext.js"></script>
    <script src="js/magnific-popup.js"></script>
    <script src="js/init.js"></script>
+   <script src="js/my-slider.js"></script>
 
 </body>
 
